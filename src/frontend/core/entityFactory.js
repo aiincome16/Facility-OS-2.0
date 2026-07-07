@@ -42,5 +42,4 @@ export function createEntity(data = {}) {
         ...data
 
     };
-
 }
