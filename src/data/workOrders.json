@@ -1,0 +1,9 @@
+[
+  {
+    "id": "wo001",
+    "title": "Grundreinigung",
+    "objectId": "obj001",
+    "status": "offen",
+    "assignedTo": "emp001"
+  }
+]
