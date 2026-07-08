@@ -1,0 +1,16 @@
+[
+  {
+    "id": "task001",
+    "roomId": "room001",
+    "title": "Boden reinigen",
+    "completed": false,
+    "priority": "normal"
+  },
+  {
+    "id": "task002",
+    "roomId": "room002",
+    "title": "Papierkorb leeren",
+    "completed": false,
+    "priority": "hoch"
+  }
+]
