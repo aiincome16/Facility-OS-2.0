@@ -1,0 +1,34 @@
+/************************************************
+ * Facility OS 2.0
+ * loggerService.js
+ ************************************************/
+
+class LoggerService {
+
+    info(...args) {
+
+        console.log("[INFO]", ...args);
+
+    }
+
+    warn(...args) {
+
+        console.warn("[WARN]", ...args);
+
+    }
+
+    error(...args) {
+
+        console.error("[ERROR]", ...args);
+
+    }
+
+    debug(...args) {
+
+        console.debug("[DEBUG]", ...args);
+
+    }
+
+}
+
+export const loggerService = new LoggerService();
