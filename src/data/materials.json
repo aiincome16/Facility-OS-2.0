@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mat001",
+    "name": "Glasreiniger",
+    "stock": 10,
+    "unit": "Flaschen"
+  },
+  {
+    "id": "mat002",
+    "name": "Mikrofasertuch",
+    "stock": 25,
+    "unit": "Stück"
+  }
+]
