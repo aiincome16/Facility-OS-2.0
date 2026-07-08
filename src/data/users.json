@@ -1,0 +1,35 @@
+[
+  {
+    "id": "admin001",
+    "username": "admin",
+    "password": "admin",
+    "firstName": "System",
+    "lastName": "Administrator",
+    "role": "Admin",
+    "organizationId": "facility-demo",
+    "assignedObjects": ["obj001"],
+    "active": true
+  },
+  {
+    "id": "mgr001",
+    "username": "objektleiter",
+    "password": "1234",
+    "firstName": "Max",
+    "lastName": "Mustermann",
+    "role": "Objektleiter",
+    "organizationId": "facility-demo",
+    "assignedObjects": ["obj001"],
+    "active": true
+  },
+  {
+    "id": "emp001",
+    "username": "mitarbeiter",
+    "password": "1234",
+    "firstName": "Anna",
+    "lastName": "Beispiel",
+    "role": "Mitarbeiter",
+    "organizationId": "facility-demo",
+    "assignedObjects": ["obj001"],
+    "active": true
+  }
+]
