@@ -1,0 +1,10 @@
+[
+  {
+    "id": "not001",
+    "title": "Willkommen",
+    "message": "Facility OS 2.0 wurde erfolgreich gestartet.",
+    "priority": "normal",
+    "read": false,
+    "createdAt": "2026-01-01T08:00:00"
+  }
+]
