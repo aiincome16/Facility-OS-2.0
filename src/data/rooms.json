@@ -1,0 +1,14 @@
+[
+  {
+    "id": "room001",
+    "objectId": "obj001",
+    "name": "Empfang",
+    "description": "Haupteingang"
+  },
+  {
+    "id": "room002",
+    "objectId": "obj001",
+    "name": "Büro 1",
+    "description": "Verwaltung"
+  }
+]
